@@ -1,0 +1,12 @@
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\bin\Debug\ConsoleApp1AlertBoxes.exe.config
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\bin\Debug\ConsoleApp1AlertBoxes.exe
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\bin\Debug\ConsoleApp1AlertBoxes.pdb
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\bin\Debug\WebDriver.dll
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\bin\Debug\WebDriver.Support.dll
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\bin\Debug\WebDriver.xml
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\bin\Debug\WebDriver.Support.xml
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\obj\Debug\ConsoleApp1AlertBoxes.csprojAssemblyReference.cache
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\obj\Debug\ConsoleApp1AlertBoxes.csproj.CoreCompileInputs.cache
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\obj\Debug\ConsoleApp1AlertBoxes.csproj.CopyComplete
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\obj\Debug\ConsoleApp1AlertBoxes.exe
+C:\Users\gperez\source\repos\ConsoleApp1AlertBoxes\ConsoleApp1AlertBoxes\obj\Debug\ConsoleApp1AlertBoxes.pdb
